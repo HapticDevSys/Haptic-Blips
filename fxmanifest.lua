@@ -1,13 +1,9 @@
-name "LC-Blips"
-author "LifeCore"
+name "Haptic-Blips"
+author "HapticDev"
 description "Blip Creator"
 fx_version "cerulean"
 game "gta5"
 lua54 'yes'
-
-dependencies {
-    'qb-target',
-}
 
 shared_scripts {
     'config.lua'
@@ -16,8 +12,3 @@ shared_scripts {
 client_scripts {
     'client/client.lua',
 }
-
-
-escrow_ignore {
-    'config.lua',  -- Only ignore one file
-  }
