@@ -1,2 +1,2 @@
 # Haptic-Blips
- A free to use easy blip maker/manager for Fivem
+Easily create and manage map blips for your FiveM server with this Blips Creator Script! This tool allows you to add custom blips to the map, making it easier for players to locate key locations, points of interest, or custom areas on your server.
